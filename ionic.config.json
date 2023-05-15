@@ -1,0 +1,8 @@
+{
+  "name": "pm4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1703f129"
+}
